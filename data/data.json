@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": " grabar la clase ",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": " mostrar la presentacion",
+        "estado": "espera"
+    },
+    {
+        "titulo": " mostrar path ",
+        "estado": "terminado"
+    }
+]
